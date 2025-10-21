@@ -1,0 +1,3 @@
+Collaborative Story : append each new sentence/word to the end.
+
+A Porsche sat outside of a magic shop late one night.
