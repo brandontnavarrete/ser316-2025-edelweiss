@@ -4,9 +4,6 @@ A Porsche sat outside of a magic shop late one night.
 The driver got out of the car and brought his Hund.
 The Hund was wearing Lederhose and was wearing a shirt with a Schloss, and then 
 inquired where some delicious Bratwurst can be found.
-<<<<<<< HEAD
-Luckily for the hund, he noticed the members of Rammstein were walking down the street.
-=======
 Luckily for the hund, he noticed the members of Rammstein were walking down the street.
 The hund was walking towards them and passed by a baeckerei.
->>>>>>> bejohn
+
