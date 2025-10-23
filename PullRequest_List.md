@@ -1,3 +1,13 @@
-Place Holder: Team, We need to add our PR for other teams here.
+# Pull Request Log
 
-rgarstec: https://github.com/tantshirt/lederhosen-storytime/pull/3
+| # | Your Name           | Target Team / Repo                         | PR Title                                    | PR Link |
+|---|---------------------|---------------------------------------------|---------------------------------------------|---------|
+| 1 | Brandon Navarrete   | juliedelaro / ser316-brezn-storytime        | Enhance story with traveler's parking detail | https://github.com/juliedelaro/ser316-brezn-storytime/pull/XXX |
+| 2 | rgarstec   | tantshirt / lederhosen-storytime            | Add one sentence to story.txt                | https://github.com/tantshirt/lederhosen-storytime/pull/3 |
+| 3 | Brandon Navarrete   |                                             |                                             |         |
+| 4 | Brandon Navarrete   |                                             |                                             |         |
+| 5 | Brandon Navarrete   |                                             |                                             |         |
+| 6 | Brandon Navarrete   |                                             |                                             |         |
+
+
+
