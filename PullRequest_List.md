@@ -7,7 +7,7 @@
 | 3 | Vartan Kehyaian   | Tueftler / WanderlustStoryTime          | Add sentence to story                        | https://github.com/aghines98/WanderlustStoryTime/pull/9            |
 | 4 | Bevin John        | Nourkhaled2/ser316-gemuetilchkeit-story | Add sentence using german word (bejohn45)    | https://github.com/Nourkhaled2/ser316-gemuetilchkeit-story/pull/22 |
 | 5 | Tanbir Bhandal | juliedelaro/ser316-brezn-storytime | Add sentence to story.txt | https://github.com/juliedelaro/ser316-brezn-storytime |
-| 6 | Brandon Navarrete |                                         |                                              |                                                                    |
+| 6 | Kason Fike | Nourkhaled2/ser316-gemuetilchkeit-story | Add sentence 11                      | https://github.com/Nourkhaled2/ser316-gemuetilchkeit-story/pull/23                         |
 
 
 
